@@ -19,16 +19,16 @@ class script(object):
     ABOUT_TXT = """<b>
 ╭────[ About Meh ]────⍟
 │
-├⍟ Meh Name : <a href=https://t.me/Sandysfilter_bot><b>PROFFESSOR</b></a>
-├⍟ Owner : <a href=https://t.me/This_is_SandyBS><b>Sandy</b></a>
-├⍟ Developer : <a href=https://t.me/MR_X_MIRROR><b>MR X MIRROR</b></a>
+├⍟ Meh Name : <a href=https://t.me/Sandysfilter_bot><b>𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑</b></a>
+├⍟ Owner : <a href=https://t.me/This_is_SandyBS><b>𝐒𝐀𝐍𝐃𝐘</b></a>
+├⍟ Developer : <a href=https://t.me/MR_X_MIRROR><b>𝐌𝐑 𝐗 𝐌𝐈𝐑𝐑𝐎𝐑</b></a>
 ├⍟ Version : MR 1.0 [ Stable ]
 ├⍟ Server : VPS
 ├⍟ Language : Python 3.10.5
 ├⍟ Framework : Pyrogram 1.4.16
-├⍟ Powered By  : <a href=https://t.me/MROTTTamilOffl><b>MROTTTAMIL</b></a>
+├⍟ Powered By  : <a href=https://t.me/MROTTTamilOffl><b>𝐌𝐑𝐎𝐓𝐓𝐓𝐀𝐌𝐈𝐋</b></a>
 │
-╰────[ <a href=https://t.me/MROTTTamilOffl><b>MROTTTAMIL</b></a> ]────⍟<b>"""
+╰────[ <a href=https://t.me/MROTTTamilOffl><b>𝐌𝐑𝐎𝐓𝐓𝐓𝐀𝐌𝐈𝐋</b></a> ]────⍟<b>"""
     SOURCE_TXT = """<b>𝐂𝐫𝐞𝐚𝐭𝐞 𝐎𝐧𝐞 𝐋𝐢𝐤𝐞 𝐓𝐡𝐢𝐬:</b>
 » I will Create One Bot For You<b>
 » Contact Me @MR_X_MIRROR<b>"""
@@ -117,11 +117,11 @@ This module only works for my admins
 <b>᚛› 𝐆𝐫𝐨𝐮𝐩 ⪼ {}(<code>{}</code>)</b>
 <b>᚛› 𝐓𝐨𝐭𝐚𝐥 𝐌𝐞𝐦𝐛𝐞𝐫𝐬 ⪼ <code>{}</code></b>
 <b>᚛› 𝐀𝐝𝐝𝐞𝐝 𝐁𝐲 ⪼ {}</b>
-<b>᚛› 𝐌𝐑 𝐗 𝐅𝐈𝐋𝐓𝐄𝐑 𝐏𝐑𝐎 </b>
+<b>᚛› 𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑 </b>
 """
     LOG_TEXT_P = """#𝐍𝐞𝐰𝐔𝐬𝐞𝐫  
     
 <b>᚛› 𝐈𝐃 - <code>{}</code></b>
 <b>᚛› 𝐍𝐚𝐦𝐞 - {}</b>
-<b>᚛› 𝐌𝐑 𝐗 𝐅𝐈𝐋𝐓𝐄𝐑 𝐏𝐑𝐎 </b>
+<b>᚛› 𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑 </b>
 """
